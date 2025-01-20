@@ -1,0 +1,12 @@
+{
+    "name": "checkers-game",
+    "version": "1.0.0",
+    "description": "calculadora js",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
